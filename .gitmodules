@@ -1,0 +1,15 @@
+[submodule "wifi-log"]
+	path = wifi-log
+	url = git@github.com:hilios/wifi-log.git
+[submodule "gps-log"]
+	path = gps-log
+	url = git@github.com:hilios/gps-log.git
+[submodule "monitor"]
+	path = monitor
+	url = git@github.com:hilios/wifi-apc-info.git
+[submodule "web"]
+	path = web
+	url = git@github.com:hilios/wifi-apc-web.git
+[submodule "web-ui"]
+	path = web-ui
+	url = git@github.com:hilios/wifi-apc-ui.git
